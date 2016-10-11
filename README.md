@@ -1,8 +1,10 @@
 # learning-asm
 
+Everything has started from this tweet:
+
 <blockquote class="twitter-tweet" data-lang="uk"><p lang="en" dir="ltr">I&#39;ve got a strong desire to learn some basics of Assembler. Can anyone suggest a good point to start from?</p>&mdash; Denys Dovhan (@denysdovhan) <a href="https://twitter.com/denysdovhan/status/784522144478879744">7 Oct 2016</a></blockquote>
 
-In this repo I'm gonna collect links and recources, that I used for learning [Assembly][assembly].
+In this repo I'm gonna collect links and resources, that I used for learning [Assembly][assembly].
 
 ## Get it running
 
